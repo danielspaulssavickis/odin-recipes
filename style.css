@@ -6,18 +6,20 @@ body {
 
 
 .card {
-    background-color: gainsboro;
+    background-color: lightskyblue;
 }
 
 
 .title {
     background-color: thistle;
     border-left: 4px solid black;
+    margin-bottom: 25px;
 }
 
 .content {
-    padding-bottom: 3px;
-    margin-bottom: 10px;
+    background: gainsboro;
+    padding: 15px 5px;
+    margin-bottom: 2px;
     border-bottom: 1px solid;
     border-bottom-color: black;
 }
