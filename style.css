@@ -14,3 +14,21 @@ body {
     background-color: thistle;
     border-left: 4px solid black;
 }
+
+.content {
+    padding-bottom: 3px;
+    margin-bottom: 10px;
+    border-bottom: 1px solid;
+    border-bottom-color: black;
+}
+
+a.button {
+    background: white;
+    padding: 2px 6px;
+    border: 1px outset buttonborder;
+    border-radius: 3px;
+    color: black;
+    background-color: buttonface;
+    text-decoration: none;
+    
+}
