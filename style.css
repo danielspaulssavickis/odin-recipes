@@ -1,4 +1,16 @@
 body {
     background: lightskyblue;
     font-family: 'Times New Roman', Times, serif;
+    margin: 0;
+}
+
+
+.card {
+    background-color: gainsboro;
+}
+
+
+.title {
+    background-color: thistle;
+    border-left: 4px solid black;
 }
