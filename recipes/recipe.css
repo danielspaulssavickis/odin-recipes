@@ -5,13 +5,20 @@ body {
 
 .title {
     background: burlywood;
-    border-left: 10px solid burlywood;
-    margin: -10px;
+    border-left: 7px solid black;
+    padding-left: 4px;
+    margin-left: -10px
 }
 
 .img {
     border: 2px solid;
     border-color: black
+}
+
+span {
+    background-color: antiquewhite;
+    border-color: black;
+    border: 1px solid;
 }
 
 .content {
