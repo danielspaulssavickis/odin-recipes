@@ -1,3 +1,35 @@
 body {
     background: pink;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.title {
+    background: burlywood;
+    border-left: 10px solid burlywood;
+    margin: -10px;
+}
+
+.img {
+    border: 2px solid;
+    border-color: black
+}
+
+.content {
+
+    border-left: 10px solid burlywood;
+    margin: -10px
+}
+
+a.button {
+    background: white;
+    color:black;
+    text-decoration: none;
+    padding: 2px 6px;
+    border: 1px outset;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+.button:hover {
+    background: rgb(202, 202, 202);
 }
