@@ -28,11 +28,10 @@ a.button {
     border: 1px outset buttonborder;
     border-radius: 3px;
     color: black;
-    background-color: buttonface;
     text-decoration: none;
     
 }
 
 .button:hover {
-    background-color: rgb(202, 202, 202);
+    background: rgb(202, 202, 202);
 }
