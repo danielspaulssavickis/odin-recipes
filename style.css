@@ -1,12 +1,13 @@
 body {
     background: lightskyblue;
     font-family: 'Times New Roman', Times, serif;
-    margin: 0;
+
 }
 
 
 .card {
     background-color: lightskyblue;
+    margin-left: -10px;
 }
 
 
@@ -36,4 +37,14 @@ a.button {
 
 .button:hover {
     background: rgb(202, 202, 202);
+}
+
+.footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: moccasin;
+   color: black;
+   text-align: center;
 }
